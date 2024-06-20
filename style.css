@@ -1,0 +1,143 @@
+.nombre{
+    position: relative;
+    left: 45px;
+    text-align: center;
+}.casco{
+    position: relative;
+    border: 2px solid black;
+    width: 470px;
+    height: 50px;
+    border-color: black;
+    background-color: bisque;
+    left: 15px;
+}.division{
+    position: relative;
+    border: 2px solid black;
+    width: 450px;
+    height: 20px;
+    background-color: bisque;
+    left: 25px;
+}
+.cabeza{
+    position: relative;
+    border: 2px solid black;
+    width: 450px;
+    height: 300px;
+    border-color: black;
+    background-color: bisque;
+    left: 25px;
+}.ojo1{
+    position: relative;
+    border: 2px solid black;
+    width: 70px;
+    height: 50px;
+    top: 40px;
+    left: 10%;
+    background-color: aliceblue;
+}.ojo2{
+    position: relative;
+    border: 2px solid black;
+    width: 70px;
+    height: 50px;
+    top: -15px;
+    left: 75%;
+    background-color: aliceblue;
+}.nariz{
+    position: relative;
+    border: 2px solid black;
+    width: 90px;
+    height: 200px;
+    top: -36%;
+    left: 40%;
+}.boca{
+    position: relative;
+    border: 2px solid black;
+    width: 150px;
+    height: 50px;
+    top: -75px;
+    left: 35%;
+}.torzo{
+    position: relative;
+    border: 2px solid black;
+    width: 500px;
+    height: 600px;
+    border-color: black;
+    background-color: bisque;
+}.brazo1{
+    position: relative;
+    border: 2px solid black;
+    width: 200px;
+    height: 150px;
+    top: 250px;
+    left: 60%;    
+}.dedob1{
+    border: 2px solid black;
+    width: 70px;
+    height: 35px;
+}.dedob2{
+    margin-left: 130px;
+    border: 2px solid black;
+    width: 70px;
+    height: 35px;
+}
+.brazo2{
+    position: relative;
+    border: 2px solid black;
+    width: 200px;
+    height: 150px;
+    top: 100px;    
+}.medio{
+    position: relative;
+    border: 2px solid black;
+    width: 500px;
+    height: 50px;
+    border-color: black;
+    background-color: bisque;    
+}.pant{
+    position: relative;
+    border: 2px solid black;
+    width: 500px;
+    height: 200px;
+    border-color: black;    
+    background-color: bisque;
+}
+.p1{
+    border: 1px solid black;
+    width: 250px;
+    height: 200px;
+}.p2{
+    position: relative;
+    border: 1px solid black;
+    width: 250px;
+    height: 200px;
+    left: 50%;
+    top: -101%;
+}
+.tobillo{
+    position: relative;
+    border: 2px solid black;
+    width: 450px;
+    height: 150px;
+    border-color: black;
+    left: 25px;
+    background-color: bisque;
+}.pies{
+    display: flex;
+    border: 2px solid black;
+    width: 500px;
+    height: 80px;
+    border-color: black;
+    background-color: bisque;
+}.dedopie{
+    margin-top: 20px;
+    border: 2px solid black;
+    width: 70px;
+    height: 60px;
+}
+.base{
+    border: 2px solid black;
+    width: 500px;
+    height: 80px;
+    border-color: black;
+    background-color: rgb(237, 203, 162);
+}
